@@ -1,4 +1,4 @@
-# LTX23 Safetensors Merger
+# Safetensors Key Merger
 
 A specialized tool designed to extract and merge specific components from `.safetensors` files. It is particularly useful for transferring VAEs, Audio VAEs, Vocoders, and Text Embedding Projections between models.
 
